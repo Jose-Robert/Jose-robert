@@ -5,8 +5,7 @@
 ### Sobre mim:
 - 🎓 Bacharel em Sistemas de Informação - UNIESP
 - 🌱 Sempre em busca de conhecimento
-- 🎢 Número de visitantes do perfil:  
-![](https://visitor-badge.glitch.me/badge?page_id=Jose-Robert.Jose-Robert)
+- 🎢 Número de visitantes do perfil:![](https://visitor-badge.glitch.me/badge?page_id=Jose-Robert.Jose-Robert)
 
 <br/>
 
