@@ -17,20 +17,17 @@ Here are some ideas to get you started:
 ---
 ### Github Activity ✔:
 
-<a href="https://github.com/Davekibh">
+<a href="https://github.com/Jose-Robert">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Robert&theme=tokyonight" />
   </a>
 
-<a href="https://github.com/Davekibh">
+<a href="https://github.com/Jose-Robert">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jose-Robert&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
 </a>
 </br>
 </br>
 </br>
-</br>
 
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
@@ -51,7 +48,3 @@ Saturday     70 commits     ██████░░░░░░░░░░░�
 Sunday       91 commits     ███████░░░░░░░░░░░░░░░░░░   30.95%
 
 ```
-
-
-
-<!--END_SECTION:waka-->
