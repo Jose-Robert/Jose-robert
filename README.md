@@ -15,9 +15,15 @@ Here are some ideas to get you started:
 
 
 ---
-### 🐱My Github stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=Jose-Robert&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Robert&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Jose-Robert/github-readme-stats)
+### Github Activity ✔:
+
+<a href="https://github.com/Davekibh">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Robert&theme=tokyonight" />
+  </a>
+
+<a href="https://github.com/Davekibh">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jose-Robert&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
+</a>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
