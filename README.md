@@ -18,12 +18,19 @@ Here are some ideas to get you started:
 
 
 ---
-### Github Activity ✔:
+## 📈 Github Stats
 
-<a href="https://github.com/Jose-Robert">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Robert&theme=tokyonight" />
-  </a>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details>
+  <summary>📊 GitHub Profile Stats</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jose-Robert's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jose-Robert&show_icons=true&count_private=true&hide=" /></a>
+</details>
 
-<a href="https://github.com/Jose-Robert">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jose-Robert&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
-</a>
+<details> 
+  <summary>💻 Most used languages</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jose-Robert's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Robert&langs_count=10&layout=compact#" /></a>
+  <br/>
+  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
+</details>
