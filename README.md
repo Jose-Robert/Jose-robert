@@ -1,4 +1,4 @@
-### José Robert 💻 - Software Developer - Fullstack
+### José Robert 💻 - Software Developer - Backend/Fullstack
 
 ---
 
